@@ -42,7 +42,6 @@ class Qart extends Component {
             this.renderElement = getDOMNode(e);
           }
         }}
-        style={{ width: '300px', height: '300px' }}
       />
     );
   }
